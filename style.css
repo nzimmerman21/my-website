@@ -1,0 +1,56 @@
+.top {
+    padding-top: 50px;
+    padding-right: 60px;
+    padding-bottom: 50px;
+    padding-left: 60px;
+    margin:0;
+    font-family: garamond;
+    white-space:nowrap;
+    list-style-type:none;
+    display:inline;
+    font-size: 25px;
+}
+
+h2 {
+    color: black;
+    font-family: garamond;
+}
+
+body {
+    background-color: cream;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+    font-family: garamond;
+}
+h3 {
+    font-family: garamond;
+    font-size: 25px;
+}
+
+h5 {
+    font-family: garamond;
+    font-size: 20px;
+}
+
+p {
+    font-family: garamond;
+    font-size: 20px;
+}
+
+table {
+        text-align: center;
+}
+
+ table.center {
+        margin-left:auto; 
+        margin-right:auto;
+ }
+
+img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+}
